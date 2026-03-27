@@ -1,0 +1,38 @@
+# PlatformIO Configuration
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio_core/
+
+# Visual Studio Code / IDE
+.vscode/
+*.code-workspace
+.idea/
+cmake-build-*/
+out/
+
+# Compiled Object files, Executables, and Build Artifacts
+*.o
+*.obj
+*.out
+*.elf
+*.bin
+*.hex
+*.a
+*.lib
+build/
+tags
+cscope.*
+
+# Directories to ignore
+tmp/
+temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
